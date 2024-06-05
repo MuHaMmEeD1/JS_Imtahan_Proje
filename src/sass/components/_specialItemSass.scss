@@ -1,0 +1,41 @@
+.sectionSpecile {
+  display: flex;
+  background-color: #262626;
+  width: 100vw;
+  position: relative;
+  right: 10px;
+  justify-content: center;
+  gap: 100px;
+  padding: 100px 0;
+}
+.sectionSpecile__mainImage {
+  width: 700px;
+  height: 800px;
+  position: relative;
+  right: 100px;
+}
+.sectionSpecile__explantionDiv {
+}
+.sectionSpecile__titelH2 {
+  color: white;
+  font-size: 90px;
+  width: 200px;
+}
+.sectionSpecile__commentP {
+  color: white;
+  font-size: 30px;
+  width: 680px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+  line-height: 60px;
+}
+.sectionSpecile__seeCollectionButton {
+  background-color: white;
+  color: black;
+  width: 240px;
+  height: 80px;
+  font-size: 26px;
+  font-weight: 700;
+  position: relative;
+  top: 50px;
+}

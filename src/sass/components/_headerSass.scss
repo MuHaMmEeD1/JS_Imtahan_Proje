@@ -1,0 +1,87 @@
+.header__topDiv {
+  display: flex;
+  width: 1700px;
+  justify-content: space-between;
+}
+
+header {
+  padding: 0 200px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.searchImage {
+  width: 30px;
+  height: 30px;
+}
+
+.mainLogo {
+  width: 200px;
+  height: 35px;
+  position: relative;
+  left: 40px;
+}
+.divManAndShop {
+  display: flex;
+  gap: 20px;
+}
+.accountDiv {
+  display: flex;
+  gap: 5px;
+  background-color: transparent;
+  border: 0;
+}
+.accountImage {
+  width: 30px;
+  height: 30px;
+}
+.accountP {
+  position: relative;
+  bottom: 10px;
+  font-size: 16px;
+}
+.shopingDiv {
+  display: flex;
+  gap: 5px;
+  background-color: transparent;
+  border: 0;
+  z-index: 1;
+}
+.shopingImage {
+  width: 30px;
+  height: 30px;
+}
+.shopingP {
+  position: relative;
+  bottom: 10px;
+  font-size: 16px;
+}
+.pagesUl {
+  list-style: none;
+  display: flex;
+  gap: 70px;
+  width: 1700px;
+}
+
+.pagesUl :nth-child(2) {
+  width: 170px;
+}
+.pagesUl :nth-child(3) {
+  width: 140px;
+}
+.pagesUl :nth-child(4) {
+  width: 165px;
+}
+.pagesUl :nth-child(5) {
+  width: 195px;
+}
+.pagesUl :nth-child(6) {
+  width: 160px;
+}
+.pagesUl p {
+  width: 220px;
+  font-size: 22px;
+}

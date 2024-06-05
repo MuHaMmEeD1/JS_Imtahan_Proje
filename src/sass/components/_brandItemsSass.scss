@@ -1,0 +1,58 @@
+.brandSection {
+  background-color: white;
+  width: 100vw;
+  position: relative;
+}
+.brandImagesUl {
+  background-color: white;
+  position: relative;
+  left: 420px;
+  display: flex;
+  gap: 10px;
+  padding: 30px;
+  top: 40px;
+  width: 70vw;
+}
+.brandImagesUl img {
+  width: 330px;
+  height: 80px;
+}
+.brandSection__brandGrid {
+  font-weight: 700;
+  font-size: 50px;
+  transform: rotate(-90deg);
+  position: relative;
+  left: 600px;
+  bottom: 30px;
+  width: 1000px;
+}
+
+.brandGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  padding-top: 130px;
+  position: relative;
+  right: 270px;
+}
+.brandMainImage {
+  width: 700px;
+  height: 1000px;
+  position: relative;
+  right: 270px;
+}
+
+.brandSimpelDiv {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 60px;
+  height: 500px;
+  position: relative;
+  right: 270px;
+}
+
+.brandSimpelDiv img {
+  width: 470px;
+  height: 470px;
+}

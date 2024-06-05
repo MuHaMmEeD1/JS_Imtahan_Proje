@@ -1,0 +1,56 @@
+.mainSection {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  padding-top: 55px;
+  padding-bottom: 30px;
+  display: flex;
+  gap: 20px;
+}
+.mainSection__flovrwDizayn {
+  width: 100vw;
+
+  position: absolute;
+  left: 0;
+}
+.mainSection__descriptionP {
+  width: 980px;
+  font-size: 44px;
+}
+.mainSection__titelDiv {
+  position: relative;
+}
+.h1 {
+  font-size: 82px;
+}
+.mainSection__mainImage {
+  position: relative;
+  left: 30px;
+  border-radius: 200px 0 200px 0;
+  width: 500px;
+  height: 600px;
+}
+
+.mainSection__shopNowButton {
+  width: 190px;
+  height: 80px;
+  display: flex;
+  gap: 10px;
+  background-color: #1a1a1a;
+}
+
+.mainSection__shopNowButton p {
+  color: white;
+  font-size: 23px;
+  padding: 0;
+  position: relative;
+  top: 2px;
+  left: 3px;
+}
+.mainSection__shopNowButtonImage {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  top: 13px;
+  left: 4px;
+}

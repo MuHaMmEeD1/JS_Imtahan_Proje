@@ -1,0 +1,30 @@
+@import "./components/headerSass";
+@import "./components/mainSiteSass";
+@import "./components/mainSiteSass";
+@import "./components/brandItemsSass";
+@import "./components/newStyleItemsSass";
+@import "./components/specialItemSass";
+@import "./components/bestSellersSass";
+@import "./components/followSectionSass";
+@import "./components/footerSass";
+@import "./components/shopSass";
+
+body {
+  background-color: #f7f7f7;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+button:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+img:hover {
+  opacity: 0.9;
+}
+
+p:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}

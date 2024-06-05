@@ -1,0 +1,270 @@
+{
+  "Products": {
+    "bags": [
+      {
+        "image": "./src/images/bags/bag_1.png",
+        "title": "Bag 1",
+        "type": "Bag",
+        "price": 10,
+        "quantity": 1,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/bags/bag_2.png",
+        "title": "Bag 2",
+        "type": "Bag",
+        "price": 12,
+        "quantity": 2,
+        "discount": 20
+      },
+      {
+        "image": "./src/images/bags/bag_3.png",
+        "title": "Bag 3",
+        "type": "Bag",
+        "price": 13,
+        "quantity": 4,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/bags/bag_4.png",
+        "title": "Bag 4",
+        "type": "Bag",
+        "price": 9,
+        "quantity": 1,
+        "discount": 0
+      }
+    ],
+    "hoodies": [
+      {
+        "image": "./src/images/hoodies/hooded_1.png",
+        "title": "Hooded 1",
+        "type": "Hooded",
+        "price": 22,
+        "quantity": 2,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/hoodies/hooded_2.png",
+        "title": "Hooded 2",
+        "type": "Hooded",
+        "price": 20,
+        "quantity": 1,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/hoodies/hooded_3.png",
+        "title": "Hooded 3",
+        "type": "Hooded",
+        "price": 19,
+        "quantity": 4,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/hoodies/hooded_4.png",
+        "title": "Hooded 4",
+        "type": "Hooded",
+        "price": 25,
+        "quantity": 3,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/hoodies/hooded_5.png",
+        "title": "Hooded 5",
+        "type": "Hooded",
+        "price": 23,
+        "quantity": 2,
+        "discount": 10
+      },
+      {
+        "image": "./src/images/hoodies/hooded_6.png",
+        "title": "Hooded 6",
+        "type": "Hooded",
+        "price": 20,
+        "quantity": 1,
+        "discount": 90
+      },
+      {
+        "image": "./src/images/hoodies/hooded_7.png",
+        "title": "Hooded 7",
+        "type": "Hooded",
+        "price": 17,
+        "quantity": 3,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/hoodies/hooded_8.png",
+        "title": "Hooded 8",
+        "type": "Hooded",
+        "price": 24,
+        "quantity": 1,
+        "discount": 0
+      }
+    ],
+    "jacets": [
+      {
+        "image": "./src/images/jackets/jacket_1.png",
+        "title": "Jacket 1",
+        "type": "Jacket",
+        "price": 30,
+        "quantity": 2,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/jackets/jacket_2.png",
+        "title": "Jacket 2",
+        "type": "Jacket",
+        "price": 25,
+        "quantity": 1,
+        "discount": 15
+      },
+      {
+        "image": "./src/images/jackets/jacket_3.png",
+        "title": "Jacket 3",
+        "type": "Jacket",
+        "price": 28,
+        "quantity": 2,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/jackets/jacket_4.png",
+        "title": "Jacket 4",
+        "type": "Jacket",
+        "price": 32,
+        "quantity": 6,
+        "discount": 10
+      },
+      {
+        "image": "./src/images/jackets/jacket_5.png",
+        "title": "Jacket 5",
+        "type": "Jacket",
+        "price": 35,
+        "quantity": 2,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/jackets/jacket_6.png",
+        "title": "Jacket 6",
+        "type": "Jacket",
+        "price": 37,
+        "quantity": 1,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/jackets/jacket_7.png",
+        "title": "Jacket 7",
+        "type": "Jacket",
+        "price": 33,
+        "quantity": 4,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/jackets/jacket_8.png",
+        "title": "Jacket 8",
+        "type": "Jacket",
+        "price": 30,
+        "quantity": 2,
+        "discount": 50
+      }
+    ],
+    "shoes": [
+      {
+        "image": "./src/images/shoes/shoe_1.png",
+        "title": "Shoe 1",
+        "type": "Shoe",
+        "price": 10,
+        "quantity": 1,
+        "discount": 35
+      },
+      {
+        "image": "./src/images/shoes/shoe_2.png",
+        "title": "Shoe 2",
+        "type": "Shoe",
+        "price": 12,
+        "quantity": 1,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/shoes/shoe_3.png",
+        "title": "Shoe 3",
+        "type": "Shoe",
+        "price": 15,
+        "quantity": 2,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/shoes/shoe_4.png",
+        "title": "Shoe 4",
+        "type": "Shoe",
+        "price": 8,
+        "quantity": 3,
+        "discount": 0
+      }
+    ],
+    "t_shirts": [
+      {
+        "image": "./src/images/t-shirts/t-shirt_1.png",
+        "title": "T-Shirt 1",
+        "type": "T-Shirt",
+        "price": 5,
+        "quantity": 4,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/t-shirts/t-shirt_2.png",
+        "title": "T-Shirt 2",
+        "type": "T-Shirt",
+        "price": 7,
+        "quantity": 2,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/t-shirts/t-shirt_3.png",
+        "title": "T-Shirt 3",
+        "type": "T-Shirt",
+        "price": 9,
+        "quantity": 2,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/t-shirts/t-shirt_4.png",
+        "title": "T-Shirt 4",
+        "type": "T-Shirt",
+        "price": 6,
+        "quantity": 2,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/t-shirts/t-shirt_5.png",
+        "title": "T-Shirt 5",
+        "type": "T-Shirt",
+        "price": 8,
+        "quantity": 1,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/t-shirts/t-shirt_6.png",
+        "title": "T-Shirt 6",
+        "type": "T-Shirt",
+        "price": 10,
+        "quantity": 1,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/t-shirts/t-shirt_7.png",
+        "title": "T-Shirt 7",
+        "type": "T-Shirt",
+        "price": 7,
+        "quantity": 1,
+        "discount": 0
+      },
+      {
+        "image": "./src/images/t-shirts/t-shirt_8.png",
+        "title": "T-Shirt 8",
+        "type": "T-Shirt",
+        "price": 5,
+        "quantity": 3,
+        "discount": 0
+      }
+    ]
+  }
+}
